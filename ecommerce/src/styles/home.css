@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+    background-color: rgb(108, 167, 179);
+  }
+  .button {
+    font-family: "Montserrat", sans-serif;
+    border-radius: 2px;
+    padding: 0.3rem;
+    margin: 0.2rem;
+    border-radius: 0.5rem;
+    color: #1b0302;
+    box-shadow: none;
+    border: none;
+    width: 4rem;
+    background-color: #fbfbf9;
+    box-sizing: border-box;
+  }
+  
+  .button:hover {
+    background-color: #f5e9e9;
+    border: 2px solid #1b0302;
+    box-sizing: border-box;
+  }
+  
+
+  .co {
+    position: relative;
+    margin-top: 0.2rem;
+  }
+  
+  .logo {
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 1.5rem;
+    position: relative;
+    bottom: 77px;
+    left: 20px;
+  }
+  
+  .web-title {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25rem;
+    margin-top: 0.4rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #1b0302;
+    height: 80px;
+  }
+
+  .navbar1 {
+    background-color: #d8c3a5;
+  }
+  
+
+  .heading {
+    background-color: #0B132B;
+    padding-left: 10px;
+    /* padding-bottom: 10px; */
+    padding-top: 20px;
+    height: 100px;
+    color: #5BC0BE;
+    text-align: center;
+  }
+
+
+  .name {
+    background-color: #1C2541;
+  }
+
+  .desc {
+    background-color: #1C2541;
+  }
+
+  .restrict-width {
+    position: relative;
+    left: 225px;
+    width: 1047px;
+    height: 600px;
+  }
+
+  .active {
+    margin-top: 0;
+  }
+
+  .carousel-caption {
+    background-color: #1C2541;
+    margin-bottom: 0;
+     
+
+  }
+
+  .carousel-indicators {
+    background-color: #1C2541;
+  }
+
+  .login-buyer {
+      position: relative;
+      bottom: 740px;
+      left: 1177px;
+      width: 125px;
+      background-color: #5BC0BE;
+      border: transparent;
+      border-radius: 5px;
+      padding: 4px;
+
+  }
+
+  .register-buyer {
+      position: relative;
+      bottom: 693px;
+      left: 927px;
+      width: 125px;
+      background-color: #5BC0BE;
+      border: transparent;
+      border-radius: 5px;
+      padding: 4px;
+  }
+
+  .login-seller {
+    position: relative;
+    bottom: 740px;
+    left: 1200px;
+    width: 125px;
+    background-color: #5BC0BE;
+    border: transparent;
+    border-radius: 5px;
+    padding: 4px;
+  }
+
+  .register-seller {
+    position: relative;
+    bottom: 693px;
+    left: 950px;
+    width: 125px;
+    background-color: #5BC0BE;
+    border: transparent;
+    border-radius: 5px;
+    padding: 4px;
+  }
+
+
+
+
+
+
+
+
+
