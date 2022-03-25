@@ -1,4 +1,4 @@
-# Project Name
+# E-Commerce for Artisans
 
 ### Team name: Invictus
 
