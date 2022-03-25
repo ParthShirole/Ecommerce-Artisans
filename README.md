@@ -76,4 +76,5 @@ npm start
 ## Screenshots
 
 
-![Screenshot alt text](https://img.freepik.com/free-photo/blue-purple-technology-circuit_73426-205.jpg "Here is a screenshot")
+![Screenshot alt text](images/homepage.png "Home Page")
+![Screenshot alt text](images/login.png "Login for Buyer Page")
