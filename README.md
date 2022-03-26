@@ -79,3 +79,5 @@ npm start
 ![Screenshot alt text](images/homepage.png "Home Page")
 
 ![Screenshot alt text](images/login.png "Login for Buyer Page")
+
+![Screenshot alt text](images/explore.png "Explore Page")
