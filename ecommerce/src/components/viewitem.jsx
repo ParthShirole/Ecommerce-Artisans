@@ -7,8 +7,8 @@ const Viewitem=({item})=>{
         <>
         
         
-        <Box className="container">
-            <img className="image" src={url} alt="blog" />
+        <Box className="card-container">
+            <img className="card-image" src={url} alt="blog" />
             <p className="name-item">{item.productname}</p>
             {/* <Typography className="desc">{item.productdesc}</Typography> */}
             <p className="seller">Seller: {item.username}</p>

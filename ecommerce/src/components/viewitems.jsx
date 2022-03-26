@@ -23,8 +23,8 @@ const Viewitems=()=>{
 
 
     return(
-        <div className="main">
-            <h1 className="heading">Explore</h1>
+        <div className="explore-main">
+            <h1 className="explore-heading">Explore</h1>
             {items.map(item => (
                 
                 <div className="card">

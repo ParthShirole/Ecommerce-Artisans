@@ -1,4 +1,4 @@
-.container {
+.card-container {
     height: 400px;
     padding: 10;
     margin: 10;
@@ -13,7 +13,7 @@
 
 }
 
-.image {   
+.card-image {   
     height: 200px;
     width: 330px;
     object-fit: cover;
