@@ -60,26 +60,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            
-            {/* <select className="login">
-            <option>Login</option>
-            <option value={`/login/buyer`}>Buyer</option>
-            <option value={`/login/seller`}>Seller</option>
-            </select> */}
-            {/* <div className="login">
-            <label for="interest">Log In</label>
-            <select name="interest" id="interest">Buyer</select>
-            </div> */}
-
-            {/* <div class="dropdown">
-            <button class="dropbtn">Dropdown</button>
-            <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
-            </div>
-            </div> */}
-            
+              
             <Link to={`/login/buyer`}><button className="login-buyer">Buyer Log In</button></Link>
             <Link to={`/login/seller`}><button className="login-seller">Seller Log In</button></Link>
             <Link to={`/register/buyer`}><button className="register-buyer">Buyer Sign Up</button></Link>

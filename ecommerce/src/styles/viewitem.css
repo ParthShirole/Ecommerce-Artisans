@@ -3,7 +3,7 @@
     padding: 10;
     margin: 10;
     border: transparent;
-    border-radius: 10px;
+    border-radius: 0px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -14,32 +14,32 @@
 }
 
 .card-image {   
-    height: 200px;
-    width: 330px;
+    height: 210px;
+    width: 350px;
     object-fit: cover;
     border: transparent;
-    border-radius: 5px;
-    margin-top: 10px;
-    padding-top: 5px;
+    border-radius: 0px;
+    margin-top: 4px;
+    /* padding-top: 5px; */
 }
 .name-item {
     margin-top: 20px;
     font-size: 2rem;     
     color: white; 
-    background-color: #2a3042
+    background-color: transparent;
 }
 .price {
-    border: solid;
+    border: transparent;
     border-radius: 10px;
     position: relative;
     bottom: 30px;
     padding: 10px;
-    background-color: #b3e1e7;
-    color: black;
+    background-color: transparent;
+    color: white;
 }
 
 .price-text{
-    background-color: #b3e1e7;
+    background-color: transparent;
 
 }
 .heading {
@@ -57,10 +57,10 @@
     top: 70px;
     right: 120px;
     font-size: 0.9rem;
-    color: black;
+    color: whitesmoke;
     border: transparent;
     border-radius: 5px;
-    background-color: #b3e1e7;
+    background-color: transparent;
     padding: 4px;
 
 }
